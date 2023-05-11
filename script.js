@@ -51,3 +51,6 @@ function UpdateGallery(meats){
 }
 
 fetchMeats()
+
+
+
